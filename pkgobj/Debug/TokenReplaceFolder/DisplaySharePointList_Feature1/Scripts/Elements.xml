@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.8.2.min.js" Url="Scripts/jquery-1.8.2.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.8.2.js" Url="Scripts/jquery-1.8.2.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.8.2.intellisense.js" Url="Scripts/jquery-1.8.2.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\nv.d3.js" Url="Scripts/nv.d3.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\d3.v3.js" Url="Scripts/d3.v3.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\axis.js" Url="Scripts/axis.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\discreteBar.js" Url="Scripts/discreteBar.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\discreteBarChart.js" Url="Scripts/discreteBarChart.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

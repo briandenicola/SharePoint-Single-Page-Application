@@ -1,0 +1,10 @@
+﻿/* Place custom styles below */
+svg {
+  display: block;
+}
+
+#chart svg{
+  height: 500px;
+  min-width: 100px;
+  min-height: 100px;
+}
