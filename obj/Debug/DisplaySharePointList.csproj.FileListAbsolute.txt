@@ -1,9 +1,0 @@
-D:\Users\US32784\Documents\SyncRoot\SkyDrive\Code\SharePoint-Single-Page-Application\DisplaySharePointList\bin\Debug\DisplaySharePointList.pdb
-D:\Users\US32784\Documents\SyncRoot\SkyDrive\Code\SharePoint-Single-Page-Application\DisplaySharePointList\obj\Debug\DisplaySharePointList.dll
-D:\Users\US32784\Documents\SyncRoot\SkyDrive\Code\SharePoint-Single-Page-Application\DisplaySharePointList\obj\Debug\DisplaySharePointList.pdb
-C:\SkyDrive\Code\SharePoint-Single-Page-Application\bin\Debug\DisplaySharePointList.pdb
-C:\SkyDrive\Code\SharePoint-Single-Page-Application\obj\Debug\DisplaySharePointList.dll
-C:\SkyDrive\Code\SharePoint-Single-Page-Application\obj\Debug\DisplaySharePointList.pdb
-D:\Users\US32784\Documents\SyncRoot\SkyDrive\Code\SharePoint-Single-Page-Application\bin\Debug\DisplaySharePointList.pdb
-D:\Users\US32784\Documents\SyncRoot\SkyDrive\Code\SharePoint-Single-Page-Application\obj\Debug\DisplaySharePointList.dll
-D:\Users\US32784\Documents\SyncRoot\SkyDrive\Code\SharePoint-Single-Page-Application\obj\Debug\DisplaySharePointList.pdb

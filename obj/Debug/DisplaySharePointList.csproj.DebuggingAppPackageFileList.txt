@@ -1,1 +1,0 @@
-C:\SkyDrive\Code\SharePoint-Single-Page-Application\bin\Debug\DisplaySharePointList.debugapp
